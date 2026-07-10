@@ -4,7 +4,7 @@ Internship Task 1
 
 Name: RAUSHAN KUMAR
 Internship: CODE ALPHA
-Date: 06 July 2026
+Date: 10 July 2026
 
 Task Objective
 
