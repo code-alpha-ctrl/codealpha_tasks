@@ -5,7 +5,7 @@ INTERNSHIP TASK 2
 
 Name :RAUSHAN KUMAR
 Internship :CODE ALPHA
-DATE :08 JULY 2026
+DATE :10 JULY 2026
 
 Project Title:
 Stock Trading Platform using Java
